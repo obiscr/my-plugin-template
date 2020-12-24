@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.obiscr.myplugintemplate.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.obiscr.myplugintemplate.MyBundle
 
 class MyProjectService(project: Project) {
 
